@@ -1,9 +1,9 @@
-## Hi there 👋
 
-<!--
-**lorilu-studio/lorilu-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi，你好 👋
 
-Here are some ideas to get you started:
+<a href="https://github.com/sy-records"><img src="https://raw.githubusercontent.com/sy-records/staticfile/master/images/202007/huaji.gif" align="right" height="150"></a>
+
+🎉 欢迎来到我的 GitHub ，很高兴在这里见到你！
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+#### 💌 How to reach out to me
+
+You can reach me by [Email](1229166932@qq.com)
