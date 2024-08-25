@@ -1,8 +1,6 @@
 
 ### Hi，你好 👋
 
-<a href="https://github.com/sy-records"><img src="https://raw.githubusercontent.com/sy-records/staticfile/master/images/202007/huaji.gif" align="right" height="150"></a>
-
 🎉 欢迎来到我的 GitHub ，很高兴在这里见到你！
 
 - 🔭 I’m currently working on ...
@@ -14,6 +12,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-#### 💌 How to reach out to me
+#### 💌 联系我
 
 You can reach me by [Email](1229166932@qq.com)
